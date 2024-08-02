@@ -4,9 +4,19 @@ img{
     
 }
 
+h1{
+    padding-left: 13vh;
+    
+}
+h2{
+    padding-left: 13vh;
+}
+
+
+
 body{
     background-image: url(media/background.jpg);
-    
+
 }
 
 .song-icon{
